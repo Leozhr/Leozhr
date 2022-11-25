@@ -4,7 +4,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Leozhr&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Leonardo Leal github stats" /> 
+  <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Leozhr&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Leonardo Leal github stats" /> 
 </div>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=Leozhr&theme=gotham&hide_border=true&area=true)
