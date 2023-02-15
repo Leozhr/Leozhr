@@ -27,10 +27,8 @@ Olá, eu tenho 21 anos e sou um desenvolvedor front-end apaixonado por criar int
  
  <br/>
  
-   <a href="https://github.com/Leozhr/iUMovies-Angular"><img width="260px" src="https://user-images.githubusercontent.com/117487925/219116944-33267cbe-9305-4d92-ab02-b4dac5a8d74c.png" /> </a>
- 
+   <a href="https://github.com/Leozhr/iUMovies-Angular"><img width="260px" src="https://user-images.githubusercontent.com/117487925/219116944-33267cbe-9305-4d92-ab02-b4dac5a8d74c.png" /> </a> 
    <a href="https://github.com/Leozhr/AI.MAN"><img width="260px" src="https://user-images.githubusercontent.com/117487925/219116940-836c12f2-63ab-4430-98f0-c24e297a6965.png" /> </a> 
- 
    <a href="https://github.com/Leozhr/Weather-Angular"><img width="260px" src="https://user-images.githubusercontent.com/117487925/219116931-df67ee7a-c80e-4349-b664-2a500c14269d.png" /> </a> 
  
  </details>
