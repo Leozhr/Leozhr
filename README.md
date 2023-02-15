@@ -27,9 +27,11 @@ Olá, eu tenho 21 anos e sou um desenvolvedor front-end apaixonado por criar int
  
  <br/>
  
-   <a href="https://github.com/Leozhr/iUMovies-Angular"><img width="260px" src="https://user-images.githubusercontent.com/117487925/219116944-33267cbe-9305-4d92-ab02-b4dac5a8d74c.png" /> </a> 
-   <img width="260px" src="https://user-images.githubusercontent.com/117487925/219116940-836c12f2-63ab-4430-98f0-c24e297a6965.png" /> 
-   <img width="260px" src="https://user-images.githubusercontent.com/117487925/219116931-df67ee7a-c80e-4349-b664-2a500c14269d.png" /> 
+   <a href="https://github.com/Leozhr/iUMovies-Angular"><img width="260px" src="https://user-images.githubusercontent.com/117487925/219116944-33267cbe-9305-4d92-ab02-b4dac5a8d74c.png" /> </a>
+ 
+   <a href="https://github.com/Leozhr/AI.MAN"><img width="260px" src="https://user-images.githubusercontent.com/117487925/219116940-836c12f2-63ab-4430-98f0-c24e297a6965.png" /> </a> 
+ 
+   <a href="https://github.com/Leozhr/Weather-Angular"><img width="260px" src="https://user-images.githubusercontent.com/117487925/219116931-df67ee7a-c80e-4349-b664-2a500c14269d.png" /> </a> 
  
  </details>
  
@@ -41,7 +43,7 @@ Olá, eu tenho 21 anos e sou um desenvolvedor front-end apaixonado por criar int
 <br/>
 
 <div align="center">  
-  <img width="400px" height="195px" src="https://github-readme-stats.vercel.app/api?username=Leozhr&show_icons=true&count_private=true&hide_border=true&title_color=33A9DC&icon_color=0077B5&text_color=c9d1d9&bg_color=090c0f" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="400px" height="195px" src="https://github-readme-stats.vercel.app/api?username=Leozhr&show_icons=true&count_private=true&hide_border=true&title_color=33A9DC&icon_color=0077B5&text_color=c9d1d9&bg_color=090c0f" alt="Leonardo Leal github stats" /> 
   <img width="400px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leozhr&layout=compact&hide_border=true&title_color=fdfdfd&text_color=c9d1d9&bg_color=090c0f" />
 </div>
 </details>
