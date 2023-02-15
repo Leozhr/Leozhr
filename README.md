@@ -45,3 +45,4 @@ Olá, eu tenho 21 anos e sou um desenvolvedor front-end apaixonado por criar int
   <img width="400px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leozhr&layout=compact&hide_border=true&title_color=fdfdfd&text_color=c9d1d9&bg_color=090c0f" />
 </div>
 </details>
+ 
