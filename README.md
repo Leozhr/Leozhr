@@ -1,6 +1,6 @@
 # 🏄‍♂️ Leonardo Leal
 
-**`Front-End Developer (Angular)`**
+**`Desenvolvedor Front-End (Angular)`**
 
 Olá, eu tenho 21 anos e sou um desenvolvedor front-end apaixonado por criar interfaces de usuário incríveis e experiências web envolventes. Estou constantemente buscando aprimorar minhas habilidades e aprender novas tecnologias para desenvolver soluções cada vez mais inovadoras. Tenho paixão por solucionar problemas complexos e estou sempre em busca de novos desafios para me desafiar e me desenvolver como profissional.
 
@@ -10,7 +10,7 @@ Olá, eu tenho 21 anos e sou um desenvolvedor front-end apaixonado por criar int
 
 #
 
-### Hard Skills
+### Habilidades:
 
 <img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
 <img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
@@ -23,11 +23,23 @@ Olá, eu tenho 21 anos e sou um desenvolvedor front-end apaixonado por criar int
 
 #
 
-### Statistics:
+<details>
+ <summary><h3>🚀 Projetos</h3></summary>
+ 
+ <br/>
+ 
+ olaaaa
+ </details>
+ 
+#
+
+<details>
+<summary><h3>⚙️ Estatísticas</h3></summary>
 
 <br/>
 
 <div align="center">  
   <img width="500px" height="195px" src="https://github-readme-stats.vercel.app/api?username=Leozhr&show_icons=true&count_private=true&hide_border=true&title_color=33A9DC&icon_color=0077B5&text_color=c9d1d9&bg_color=090c0f" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="500px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leozhr&layout=compact&hide_border=true&title_color=C9D1BC&text_color=c9d1d9&bg_color=090c0f" />
+  <img width="500px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leozhr&layout=compact&hide_border=true&title_color=fdfdfd&text_color=c9d1d9&bg_color=090c0f" />
 </div>
+</details>
