@@ -1,4 +1,4 @@
-# ❄️ Leonardo Leal
+# Leonardo Leal
 
 **`Desenvolvedor Front-End (Angular)`**
 
@@ -42,6 +42,6 @@ Olá, eu tenho 21 anos e sou um desenvolvedor front-end apaixonado por criar int
 
 <div align="center">  
   <img width="400px" height="195px" src="https://github-readme-stats.vercel.app/api?username=Leozhr&show_icons=true&count_private=true&hide_border=true&title_color=33A9DC&icon_color=0077B5&text_color=c9d1d9&bg_color=090c0f" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="400px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leozhr&layout=compact&hide_border=true&title_color=fdfdfd&text_color=c9d1d9&bg_color=090c0f" />
+  <img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leozhr&layout=compact&hide_border=true&title_color=fdfdfd&text_color=c9d1d9&bg_color=090c0f" />
 </div>
 </details>
