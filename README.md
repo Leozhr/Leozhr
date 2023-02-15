@@ -1,4 +1,4 @@
-# 👨🏼‍💻 Leonardo Leal
+# ❄️ Leonardo Leal
 
 **`Desenvolvedor Front-End (Angular)`**
 
