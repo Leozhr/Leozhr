@@ -28,7 +28,8 @@ Olá, eu tenho 21 anos e sou um desenvolvedor front-end apaixonado por criar int
  
  <br/>
  
- olaaaa
+   <img width="300px" src="https://user-images.githubusercontent.com/117487925/219107292-a0aa1ec4-0eef-455e-a8ff-b157691f68fa.png" /> 
+ 
  </details>
  
 #
