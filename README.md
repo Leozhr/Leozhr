@@ -1,6 +1,6 @@
 # Leonardo Leal •••
 
-**`Desenvolvedor Front-End (Angular)`**
+**`Desenvolvedor Front-End (Angular, VueJS)`**
 
 Olá, eu tenho 21 anos e sou um desenvolvedor front-end apaixonado por criar interfaces de usuário incríveis e experiências web envolventes. Estou constantemente buscando aprimorar minhas habilidades e aprender novas tecnologias para desenvolver soluções cada vez mais inovadoras. Tenho paixão por solucionar problemas complexos e estou sempre em busca de novos desafios para me desafiar e me desenvolver como profissional.
 
@@ -12,6 +12,8 @@ Olá, eu tenho 21 anos e sou um desenvolvedor front-end apaixonado por criar int
 
 ### Habilidades:
 
+<img align="left" alt="Nuxt" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg"/>
+<img align="left" alt="VueJS" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
 <img align="left" alt="Angular" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
 <img align="left" alt="Ts" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 <img align="left" alt="Js" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
