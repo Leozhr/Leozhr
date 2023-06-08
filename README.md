@@ -1,6 +1,6 @@
 # Leonardo Leal •••
 
-**`Desenvolvedor Front-End (React, Angular, VueJS)`**
+**`Desenvolvedor Web (React, Angular, VueJS)`**
 
 Olá, eu tenho 21 anos e sou um desenvolvedor front-end apaixonado por criar interfaces de usuário incríveis e experiências web envolventes. Estou constantemente buscando aprimorar minhas habilidades e aprender novas tecnologias para desenvolver soluções cada vez mais inovadoras. Tenho paixão por solucionar problemas complexos e estou sempre em busca de novos desafios para me desafiar e me desenvolver como profissional.
 
