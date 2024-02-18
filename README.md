@@ -16,4 +16,4 @@
 
 ### Minhas Habilidades
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,next,react,angular,javascript,typescript,git,tailwind,nodejs,nest,prisma,supabase,jest,python,dotnet,cs,azure,vercel,netlify,visualstudio,vscode,figma&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,next,react,angular,javascript,typescript,git,tailwind,nodejs,nest,prisma,supabase,jest,python,dotnet,cs,azure,vercel,netlify,visualstudio,vscode,figma)](https://skillicons.dev)
