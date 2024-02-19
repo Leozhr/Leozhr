@@ -18,15 +18,17 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=next)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vue)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=prisma)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
  
