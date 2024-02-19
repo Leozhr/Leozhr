@@ -16,19 +16,19 @@
 
 ### Minhas Habilidades
 
-[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=next)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vue)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=tailwindcss)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=prisma)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![My Skills](https://skillicons.dev/icons?i=ts)](https://pt.wikipedia.org/wiki/TypeScript)
+[![My Skills](https://skillicons.dev/icons?i=next)](https://blog.rocketseat.com.br/introducao-ao-next-js/)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://www.alura.com.br/artigos/react-js)
+[![My Skills](https://skillicons.dev/icons?i=angular)](https://www.alura.com.br/artigos/angular-js)
+[![My Skills](https://skillicons.dev/icons?i=vue)](https://pt.vuejs.org/guide/introduction.html)
+[![My Skills](https://skillicons.dev/icons?i=tailwindcss)](https://blog.rocketseat.com.br/tailwindcss-e-next-js-dominando-o-desenvolvimento-com-estilo)
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://www.alura.com.br/artigos/node-js)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.hostinger.com.br/tutoriais/o-que-e-mysql)
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://pt.wikipedia.org/wiki/MongoDB)
+[![My Skills](https://skillicons.dev/icons?i=prisma)](https://blog.rocketseat.com.br/prisma-uma-das-melhores-coisa-que-ja-aconteceu-no-ecossistema)
+[![My Skills](https://skillicons.dev/icons?i=git)](https://www.alura.com.br/artigos/o-que-e-git-github)
 
  
