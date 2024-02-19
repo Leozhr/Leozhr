@@ -1,4 +1,6 @@
-# Leonardo Leal ➞ Software Development 🧑‍💻
+# Leonardo Leal 🧑‍💻
+
+### Software Development 
 
 <p>Navego com fluidez por uma gama diversificada de tecnologias e ferramentas. Além de solucionar problemas complexos, tenho expertise em revisar código e conceber soluções eficientes e escaláveis. A minha dedicação aos princípios como SOLID, TDD, Clean Code, Clean Architecture e o seguimento rigoroso das convenções de commit e GitFlow asseguram que o código que produzo seja sustentável e de altíssima qualidade.</p>
 
