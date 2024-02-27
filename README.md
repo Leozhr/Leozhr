@@ -30,5 +30,3 @@
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://pt.wikipedia.org/wiki/MongoDB)
 [![My Skills](https://skillicons.dev/icons?i=prisma)](https://blog.rocketseat.com.br/prisma-uma-das-melhores-coisa-que-ja-aconteceu-no-ecossistema)
 [![My Skills](https://skillicons.dev/icons?i=git)](https://www.alura.com.br/artigos/o-que-e-git-github)
-
- 
