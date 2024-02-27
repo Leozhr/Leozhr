@@ -4,9 +4,13 @@
 
 #
 
-👨‍💻 Todos os meus projetos estão disponíveis em **[https://portfolio-leozhr.vercel.app/](https://portfolio-leozhr.vercel.app/)**
+📦 Todos os meus projetos estão disponíveis em **[https://portfolio-leozhr.vercel.app/](https://portfolio-leozhr.vercel.app/)**
 
-💬 Pergunte-me sobre **Software Development**
+🧑‍💻 Me chamo **Leonardo**, tenho 22 anos;
+
+⚙️ Em contato com programação a mais de 5 anos;
+
+💬 Pergunte-me sobre **Software Development**;
 
 📫 Entre em contato **leonardo.leal202@gmail.com**
 
