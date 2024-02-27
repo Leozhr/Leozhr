@@ -35,6 +35,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Socket.io-172B4D?style=for-the-badge&logo=socket.io&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/jest-E0234E?style=for-the-badge&logo=jest&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/testing_library-7952B3?style=for-the-badge&logo=testinglibrary&logoColor=white">
 </div>
 
 ## Back-end
@@ -48,4 +49,5 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/jest-E0234E?style=for-the-badge&logo=jest&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/testing_library-7952B3?style=for-the-badge&logo=testinglibrary&logoColor=white">
 </div>
