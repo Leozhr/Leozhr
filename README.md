@@ -8,8 +8,6 @@
 
 🧑‍💻 Me chamo **Leonardo**, tenho 23 anos;
 
-⚙️ Em contato com programação a mais de 5 anos;
-
 📫 Entre em contato **leonardo.tech7@proton.me**
 
 
